@@ -1,0 +1,6 @@
+openai-whisper
+opencv-python
+moviepy
+torch
+numpy
+tqdm

@@ -1,0 +1,5 @@
+# This file ensures the output_transcriptions directory is tracked by Git
+# Transcription results will be saved here:
+# - [video_name]_transcription.txt (human-readable)
+# - [video_name]_transcription.json (machine-readable)
+# - [video_name].srt (subtitle file)
